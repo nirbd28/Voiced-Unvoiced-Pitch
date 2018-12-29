@@ -1,0 +1,3 @@
+This project objective is to make a separation between voiced and unvoiced sections of an audio file, and estimate pitch for the voiced parts.
+The code is written in matlab and includes a GUI. Through the GUI the user may load an audio file or record one himself. 
+The separation of voiced and unvoiced sections method is zero crossing rate (ZCR), and the pitch calculation method is autocorrelation.
